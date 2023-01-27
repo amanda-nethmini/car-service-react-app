@@ -1,0 +1,49 @@
+.addservice-container {
+    margin-left: 540px;
+    margin-top: -10px;
+}
+
+.addservice-h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.addservice-list {
+    display: inline-block;
+}
+
+.addservice-button {
+    width: 20%;
+    height: 40px;
+    background-color: rgb(0, 255, 17);
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.addservicereset-button {
+    width: 20%;
+    height: 40px;
+    background-color: rgb(0, 255, 17);
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.addservice-label {
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.addservice-box {
+    line-height: 35px;
+    width: 250px;
+    border-radius: 10px;
+    border-width: 3px;
+    margin-top: 10px;
+}
+

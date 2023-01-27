@@ -1,0 +1,49 @@
+.editservice-container {
+    margin-left: 450px;
+    margin-top: 35px;
+}
+
+.editservice-h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.editservice-list {
+    display: inline-block;
+}
+
+.editservice-button {
+    width: 20%;
+    height: 40px;
+    background-color: rgb(0, 255, 17);
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.editservicereset-button {
+    width: 20%;
+    height: 40px;
+    background-color: rgb(0, 255, 17);
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.editservice-label {
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.editservice-box {
+    line-height: 35px;
+    width: 250px;
+    border-radius: 10px;
+    border-width: 3px;
+}
+
